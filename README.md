@@ -2,4 +2,4 @@
 Learning Analytics
 
 
-i[](p2.png)
+![](p2.png)
